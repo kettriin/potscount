@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/potscount/static/css/main.3dff5842.css",
-    "main.js": "/potscount/static/js/main.12d689fc.js",
+    "main.css": "/potscount/static/css/main.a9351717.css",
+    "main.js": "/potscount/static/js/main.e73304d7.js",
     "index.html": "/potscount/index.html",
-    "main.3dff5842.css.map": "/potscount/static/css/main.3dff5842.css.map",
-    "main.12d689fc.js.map": "/potscount/static/js/main.12d689fc.js.map"
+    "main.a9351717.css.map": "/potscount/static/css/main.a9351717.css.map",
+    "main.e73304d7.js.map": "/potscount/static/js/main.e73304d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dff5842.css",
-    "static/js/main.12d689fc.js"
+    "static/css/main.a9351717.css",
+    "static/js/main.e73304d7.js"
   ]
 }
