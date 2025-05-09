@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/potscount/static/css/main.3dff5842.css",
+    "main.js": "/potscount/static/js/main.7f969183.js",
+    "index.html": "/potscount/index.html",
+    "main.3dff5842.css.map": "/potscount/static/css/main.3dff5842.css.map",
+    "main.7f969183.js.map": "/potscount/static/js/main.7f969183.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dff5842.css",
+    "static/js/main.7f969183.js"
+  ]
+}
