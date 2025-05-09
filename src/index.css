@@ -9,7 +9,7 @@ body {
 }
 
 .con{
-  display: flex;
-  width: 100vw;
+  display: flexbox;
+  width: 100%;
   justify-content: center;
 }

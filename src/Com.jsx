@@ -6,6 +6,7 @@ const Com = () => {
         {id: 0, title: "InGreen MID", text: "Средний размер: 14d * 13h", links: "https://basket-06.wbbasket.ru/vol1034/part103494/103494862/images/big/1.webp", refs: "103494862", needed: 0},
         {id: 1, title: "ho'me SM", text: "Маленький: Высота 8см Ширина 10см", links: "https://basket-12.wbbasket.ru/vol1837/part183718/183718984/images/big/1.webp", refs: "183718984", needed: 0},
         {id: 2, title: "Гал Рук XSM", text: "Прозрачный под отростки с поддонами", links: "https://basket-16.wbbasket.ru/vol2499/part249932/249932672/images/big/1.webp", refs: "249932672", needed: 0},
+        {id: 3, title: "polimex XSM", text: "Маленький 0,4 9см * 9см", links: "	https://basket-21.wbbasket.ru/vol3618/part361896/361896834/images/big/1.webp", refs: "361896834", needed: 0},
     ]
 
     const [count, setCount] = useState(initialState);
